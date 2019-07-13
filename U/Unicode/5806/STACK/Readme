@@ -1,6 +1,6 @@
 #include <script/script.h>
 
-#include <util/strencodings.h>
+#include <strencodings.h>
 
 const char* GetOpName(opcodetype opcode)
 {
